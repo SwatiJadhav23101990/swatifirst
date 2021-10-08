@@ -1,8 +1,6 @@
 1. Why have you decided to learn Git and GitHub?
-
-
-hub 
 As being teacheri wanted to learn th git and github for better teaching learning approach.
 2. How do you plan to use GitHub in your classroom?
-
 Project submission 
+
+3.What are the way that github might help you and your students manage the code?
